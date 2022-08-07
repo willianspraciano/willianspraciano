@@ -5,14 +5,14 @@
 I'm a computer engineer and a full-stack developer who loves solving problems with code. 👨‍💻
 </div>
  
-<div align="center"> 
+<!-- <div align="center"> 
   <a href="https://github.com/willianspraciano">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=willianspraciano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <span></span>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianspraciano&layout=compact&langs_count=6&theme=dark" />
-
 </div>
- <br>
+ <br> -->
+
 <div align="center"> 
   <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -30,10 +30,10 @@ I'm a computer engineer and a full-stack developer who loves solving problems wi
 </div>
   <br>
   <a href="https://www.instagram.com/willianspraciano/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/willianspraciano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/willianspraciano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:willian.s.praciano@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <br/>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=willianspraciano&color=yellow" alt="Profile views" /> </p>
-
 
 ![Snake animation](https://github.com/willianspraciano/willianspraciano/blob/output/github-contribution-grid-snake.svg)
 
